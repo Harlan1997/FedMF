@@ -2,7 +2,7 @@ from phe import paillier
 
 hidden_dim = 100
 
-max_iteration = 175
+max_iteration = 1000
 
 reg_u = 1e-4
 reg_v = 1e-4

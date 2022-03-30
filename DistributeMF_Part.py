@@ -8,7 +8,7 @@ import sys
 import datetime
 
 
-from load_data import ratings_dict, item_id_list, user_id_list
+from load_data import ratings_dict, item_id_list, user_id_list, test_data
 from shared_parameter import *
 
 
@@ -88,6 +88,21 @@ if __name__ == '__main__':
         print('Time', time.time() - t, 's')
         print('loss', mse())
     print('Converged using', time.time() - start_time)
-    ret = np.dot(user_vector, np.transpose(item_vector))
-    np.set_printoptions(threshold=np.inf)
-    print(ret[0])
+
+    prediction = []
+    real_label = []
+
+    # testing
+    for i in range(len(user_id_list)):
+
+        p = np.dot(user_vector[i:i+1], np.transpose(item_vector))[0]
+
+        r = test_data[user_id_list[i]]
+
+        real_label.append([e[1] for e in r])
+        prediction.append([p[e[0]] for e in r])
+
+    prediction = np.array(prediction, dtype=np.float32)
+    real_label = np.array(real_label, dtype=np.float32)
+
+    print('rmse', np.sqrt(np.mean(np.square(real_label - prediction))))
