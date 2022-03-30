@@ -63,7 +63,7 @@ if __name__ == '__main__':
     item_vector = np.random.normal(size=[len(item_id_list), hidden_dim])
 
     start_time = time.time()
-
+    make_print_to_file()
     for iteration in range(max_iteration):
 
         print('###################')
