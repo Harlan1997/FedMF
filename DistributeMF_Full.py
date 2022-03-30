@@ -48,7 +48,7 @@ def loss():
     # User updates
     for i in range(len(user_id_list)):
         for r in range(len(ratings_dict[user_id_list[i]])):
-            item_id, rate = ratings_dict[user_id_list[i]][r]
+            item_id, rate, _ = ratings_dict[user_id_list[i]][r]
             error = (rate - np.dot(user_vector[i], item_vector[item_id])) ** 2
             loss.append(error)
     return np.mean(loss)
