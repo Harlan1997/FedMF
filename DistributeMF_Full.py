@@ -1,9 +1,37 @@
 import time
 import copy
 import numpy as np
+import sys
+import os
+import config_file as cfg_file
+import sys
+import datetime
 
-from load_data import ratings_dict, item_id_list, user_id_list
+from load_data import ratings_dict, item_id_list, user_id_list, test_data
 from shared_parameter import *
+
+
+def make_print_to_file(path='./'):
+    '''
+    path， it is a path for save your log about fuction print
+    example:
+    use  make_print_to_file()   and the   all the information of funtion print , will be write in to a log file
+    :return:
+    '''
+    class Logger(object):
+        def __init__(self, filename="Default.log", path="./"):
+            self.terminal = sys.stdout
+            self.log = open(os.path.join(path, filename), "a", encoding='utf8',)
+ 
+        def write(self, message):
+            self.terminal.write(message)
+            self.log.write(message)
+ 
+        def flush(self):
+            pass
+    fileName = datetime.datetime.now().strftime('day'+'%Y_%m_%d1')
+    sys.stdout = Logger(fileName + '.log', path=path)
+    print(fileName.center(60,'*'))
 
 
 def user_update(single_user_vector, user_rating_list, item_vector):
@@ -61,3 +89,22 @@ if __name__ == '__main__':
         print('loss', loss())
 
     print('Converged using', time.time() - start_time)
+    
+
+    prediction = []
+    real_label = []
+
+    # testing
+    for i in range(len(user_id_list)):
+
+        p = np.dot(user_vector[i:i+1], np.transpose(item_vector))[0]
+
+        r = test_data[user_id_list[i]]
+
+        real_label.append([e[1] for e in r])
+        prediction.append([p[e[0]] for e in r])
+
+    prediction = np.array(prediction, dtype=np.float32)
+    real_label = np.array(real_label, dtype=np.float32)
+
+    print('rmse', np.sqrt(np.mean(np.square(real_label - prediction))))

@@ -1,0 +1,1725 @@
+***********************day2022_03_311***********************
+###################
+mean change of item vector 0.0038261438188711867
+iteration 0
+Time 1.3277316093444824 s
+loss 86.82650751809514
+###################
+mean change of item vector 0.0030169522455833413
+iteration 1
+Time 1.3189494609832764 s
+loss 69.78235139046835
+###################
+mean change of item vector 0.002529417316343526
+iteration 2
+Time 1.3239068984985352 s
+loss 58.35511097391523
+###################
+mean change of item vector 0.002194262390600537
+iteration 3
+Time 1.3170645236968994 s
+loss 50.12030252962383
+###################
+mean change of item vector 0.001946501912731851
+iteration 4
+Time 1.3266606330871582 s
+loss 43.88976429579886
+###################
+mean change of item vector 0.0017545872982074886
+iteration 5
+Time 1.3286852836608887 s
+loss 39.00738074954707
+###################
+mean change of item vector 0.0016010523859828758
+iteration 6
+Time 1.322817087173462 s
+loss 35.07821732097486
+###################
+mean change of item vector 0.0014754091638702791
+iteration 7
+Time 1.3253555297851562 s
+loss 31.84874917686606
+###################
+mean change of item vector 0.0013706683939331491
+iteration 8
+Time 1.328984022140503 s
+loss 29.148037616013298
+###################
+mean change of item vector 0.0012821406059003956
+iteration 9
+Time 1.3359816074371338 s
+loss 26.856327417624343
+###################
+mean change of item vector 0.0012064417842764306
+iteration 10
+Time 1.317561149597168 s
+loss 24.887117419164444
+###################
+mean change of item vector 0.0011411469966239574
+iteration 11
+Time 1.3264646530151367 s
+loss 23.17635113966475
+###################
+mean change of item vector 0.0010843156210490667
+iteration 12
+Time 1.3227221965789795 s
+loss 21.675604161229913
+###################
+mean change of item vector 0.001034579593234413
+iteration 13
+Time 1.3239548206329346 s
+loss 20.34763008449224
+###################
+mean change of item vector 0.0009907785332588434
+iteration 14
+Time 1.3295261859893799 s
+loss 19.16335731939252
+###################
+mean change of item vector 0.0009520027458725131
+iteration 15
+Time 1.3278169631958008 s
+loss 18.099809811971515
+###################
+mean change of item vector 0.0009174789592319507
+iteration 16
+Time 1.3287601470947266 s
+loss 17.13863362102716
+###################
+mean change of item vector 0.0008865521106423546
+iteration 17
+Time 1.336656093597412 s
+loss 16.26503083411464
+###################
+mean change of item vector 0.0008587014128413729
+iteration 18
+Time 1.3555717468261719 s
+loss 15.466973411230747
+###################
+mean change of item vector 0.0008335459498647637
+iteration 19
+Time 1.3289198875427246 s
+loss 14.734613224604256
+###################
+mean change of item vector 0.0008106971713629084
+iteration 20
+Time 1.325380563735962 s
+loss 14.05983217134686
+###################
+mean change of item vector 0.0007897927668713178
+iteration 21
+Time 1.3171665668487549 s
+loss 13.435894115308026
+###################
+mean change of item vector 0.0007705733326204997
+iteration 22
+Time 1.3158581256866455 s
+loss 12.857172227539673
+###################
+mean change of item vector 0.0007528065450835629
+iteration 23
+Time 1.3160316944122314 s
+loss 12.31893321911718
+###################
+mean change of item vector 0.0007362571604121319
+iteration 24
+Time 1.324232816696167 s
+loss 11.817165328814701
+###################
+mean change of item vector 0.0007207594847067946
+iteration 25
+Time 1.3237543106079102 s
+loss 11.348440582829898
+###################
+mean change of item vector 0.0007061719352811991
+iteration 26
+Time 1.3189523220062256 s
+loss 10.909804333721798
+###################
+mean change of item vector 0.0006923727933917372
+iteration 27
+Time 1.3301146030426025 s
+loss 10.498686782045702
+###################
+mean change of item vector 0.0006792622179505491
+iteration 28
+Time 1.316739559173584 s
+loss 10.112832344900223
+###################
+mean change of item vector 0.0006667569992229799
+iteration 29
+Time 1.31717848777771 s
+loss 9.750243543038883
+###################
+mean change of item vector 0.0006547928259755097
+iteration 30
+Time 1.322953224182129 s
+loss 9.40913666048001
+###################
+mean change of item vector 0.0006432955463238934
+iteration 31
+Time 1.3278722763061523 s
+loss 9.087906875040938
+###################
+mean change of item vector 0.0006322168655305599
+iteration 32
+Time 1.3137125968933105 s
+loss 8.785100921008343
+###################
+mean change of item vector 0.0006215321138065503
+iteration 33
+Time 1.3213918209075928 s
+loss 8.49939565882529
+###################
+mean change of item vector 0.0006112050247993258
+iteration 34
+Time 1.3325669765472412 s
+loss 8.229581207241896
+###################
+mean change of item vector 0.000601206554181859
+iteration 35
+Time 1.3266065120697021 s
+loss 7.974547546364337
+###################
+mean change of item vector 0.0005915107074642384
+iteration 36
+Time 1.3250749111175537 s
+loss 7.733273725459722
+###################
+mean change of item vector 0.0005820992294564697
+iteration 37
+Time 1.336097240447998 s
+loss 7.504819005391821
+###################
+mean change of item vector 0.0005729601092224845
+iteration 38
+Time 1.321281909942627 s
+loss 7.288315430762865
+###################
+mean change of item vector 0.0005640831329392356
+iteration 39
+Time 1.3275277614593506 s
+loss 7.082961461327221
+###################
+mean change of item vector 0.0005554499078105102
+iteration 40
+Time 1.3195314407348633 s
+loss 6.888016397851991
+###################
+mean change of item vector 0.000547052180495697
+iteration 41
+Time 1.32670259475708 s
+loss 6.702795417541464
+###################
+mean change of item vector 0.0005388799419236308
+iteration 42
+Time 1.3201186656951904 s
+loss 6.5266650924517595
+###################
+mean change of item vector 0.0005309309407409798
+iteration 43
+Time 1.337144136428833 s
+loss 6.359039305281353
+###################
+mean change of item vector 0.0005231980998630439
+iteration 44
+Time 1.3329575061798096 s
+loss 6.199375504604921
+###################
+mean change of item vector 0.0005156721714461117
+iteration 45
+Time 1.32023286819458 s
+loss 6.047171259591491
+###################
+mean change of item vector 0.0005083439238646684
+iteration 46
+Time 1.3207659721374512 s
+loss 5.9019610854392806
+###################
+mean change of item vector 0.0005012113508098239
+iteration 47
+Time 1.325634241104126 s
+loss 5.763313517434685
+###################
+mean change of item vector 0.0004942635630545869
+iteration 48
+Time 1.3311283588409424 s
+loss 5.6308284153644435
+###################
+mean change of item vector 0.00048749783244789456
+iteration 49
+Time 1.3227019309997559 s
+loss 5.5041344821390785
+###################
+mean change of item vector 0.00048090872480279607
+iteration 50
+Time 1.3257806301116943 s
+loss 5.382886981689894
+###################
+mean change of item vector 0.00047448939287549015
+iteration 51
+Time 1.331695318222046 s
+loss 5.266765641960461
+###################
+mean change of item vector 0.00046823367552289844
+iteration 52
+Time 1.3170585632324219 s
+loss 5.1554727294040115
+###################
+mean change of item vector 0.0004621358367364651
+iteration 53
+Time 1.3367729187011719 s
+loss 5.048731281965837
+###################
+mean change of item vector 0.0004561936954223902
+iteration 54
+Time 1.3189606666564941 s
+loss 4.946283488137072
+###################
+mean change of item vector 0.0004503980299341399
+iteration 55
+Time 1.3263158798217773 s
+loss 4.847889200329048
+###################
+mean change of item vector 0.0004447475331761295
+iteration 56
+Time 1.3278875350952148 s
+loss 4.7533245715268135
+###################
+mean change of item vector 0.0004392382127988219
+iteration 57
+Time 1.3346810340881348 s
+loss 4.662380804918182
+###################
+mean change of item vector 0.00043386440262254165
+iteration 58
+Time 1.3308017253875732 s
+loss 4.5748630069401
+###################
+mean change of item vector 0.00042862059432690296
+iteration 59
+Time 1.3313055038452148 s
+loss 4.490589134919213
+###################
+mean change of item vector 0.00042350223091394164
+iteration 60
+Time 1.3222169876098633 s
+loss 4.409389031193751
+###################
+mean change of item vector 0.00041850527598901865
+iteration 61
+Time 1.3211607933044434 s
+loss 4.3311035362793815
+###################
+mean change of item vector 0.00041362701621007063
+iteration 62
+Time 1.32951021194458 s
+loss 4.255583674276032
+###################
+mean change of item vector 0.00040886346121821713
+iteration 63
+Time 1.3342905044555664 s
+loss 4.1826899043026335
+###################
+mean change of item vector 0.0004042122765669629
+iteration 64
+Time 1.3215503692626953 s
+loss 4.112291432291551
+###################
+mean change of item vector 0.00039966935211501733
+iteration 65
+Time 1.3208184242248535 s
+loss 4.0442655779747145
+###################
+mean change of item vector 0.000395231195526367
+iteration 66
+Time 1.32796049118042 s
+loss 3.978497192351128
+###################
+mean change of item vector 0.00039089421591103707
+iteration 67
+Time 1.3225345611572266 s
+loss 3.914878121343015
+###################
+mean change of item vector 0.00038665541569341845
+iteration 68
+Time 1.3217291831970215 s
+loss 3.853306711728127
+###################
+mean change of item vector 0.0003825122085157938
+iteration 69
+Time 1.3332788944244385 s
+loss 3.793687355781743
+###################
+mean change of item vector 0.00037845933019105927
+iteration 70
+Time 1.3361313343048096 s
+loss 3.7359300713765013
+###################
+mean change of item vector 0.0003744960501729702
+iteration 71
+Time 1.3241994380950928 s
+loss 3.6799501145741385
+###################
+mean change of item vector 0.00037061925741931523
+iteration 72
+Time 1.3251216411590576 s
+loss 3.6256676220033457
+###################
+mean change of item vector 0.00036682637259346785
+iteration 73
+Time 1.3441262245178223 s
+loss 3.573007280554233
+###################
+mean change of item vector 0.00036311353241721576
+iteration 74
+Time 1.3280212879180908 s
+loss 3.5218980221351006
+###################
+mean change of item vector 0.0003594803325991362
+iteration 75
+Time 1.3227651119232178 s
+loss 3.4722727414327954
+###################
+mean change of item vector 0.0003559226923144525
+iteration 76
+Time 1.3323614597320557 s
+loss 3.424068034796074
+###################
+mean change of item vector 0.00035243774067552535
+iteration 77
+Time 1.322629690170288 s
+loss 3.3772239585235817
+###################
+mean change of item vector 0.00034902370887755237
+iteration 78
+Time 1.3256258964538574 s
+loss 3.3316838049857447
+###################
+mean change of item vector 0.0003456793175614892
+iteration 79
+Time 1.3195078372955322 s
+loss 3.287393895144442
+###################
+mean change of item vector 0.00034240215244576993
+iteration 80
+Time 1.3192448616027832 s
+loss 3.2443033861569854
+###################
+mean change of item vector 0.0003391897897892628
+iteration 81
+Time 1.321955919265747 s
+loss 3.2023640928626977
+###################
+mean change of item vector 0.0003360406019485675
+iteration 82
+Time 1.3363723754882812 s
+loss 3.161530322052307
+###################
+mean change of item vector 0.000332952797889159
+iteration 83
+Time 1.3275065422058105 s
+loss 3.1217587185133406
+###################
+mean change of item vector 0.0003299242264986506
+iteration 84
+Time 1.3140630722045898 s
+loss 3.0830081219294323
+###################
+mean change of item vector 0.0003269528362170703
+iteration 85
+Time 1.3206892013549805 s
+loss 3.045239433788836
+###################
+mean change of item vector 0.0003240373166940024
+iteration 86
+Time 1.3250477313995361 s
+loss 3.008415493527982
+###################
+mean change of item vector 0.0003211764796321555
+iteration 87
+Time 1.343324899673462 s
+loss 2.972500963200302
+###################
+mean change of item vector 0.00031836962850931386
+iteration 88
+Time 1.3219349384307861 s
+loss 2.937462220019362
+###################
+mean change of item vector 0.0003156143939586698
+iteration 89
+Time 1.341982126235962 s
+loss 2.903267256178988
+###################
+mean change of item vector 0.00031290991561932574
+iteration 90
+Time 1.321678876876831 s
+loss 2.869885585402084
+###################
+mean change of item vector 0.0003102538531999191
+iteration 91
+Time 1.3189184665679932 s
+loss 2.8372881557146266
+###################
+mean change of item vector 0.00030764564498797373
+iteration 92
+Time 1.3288722038269043 s
+loss 2.80544726798221
+###################
+mean change of item vector 0.0003050841542051906
+iteration 93
+Time 1.3177399635314941 s
+loss 2.7743364997839004
+###################
+mean change of item vector 0.00030256791849347686
+iteration 94
+Time 1.3279941082000732 s
+loss 2.7439306342323553
+###################
+mean change of item vector 0.0003000954937593525
+iteration 95
+Time 1.333782434463501 s
+loss 2.7142055933803784
+###################
+mean change of item vector 0.00029766548771614966
+iteration 96
+Time 1.3309099674224854 s
+loss 2.6851383758827363
+###################
+mean change of item vector 0.00029527684237841726
+iteration 97
+Time 1.3263921737670898 s
+loss 2.6567069986081413
+###################
+mean change of item vector 0.0002929289080508268
+iteration 98
+Time 1.3239877223968506 s
+loss 2.6288904419203627
+###################
+mean change of item vector 0.00029062089633136883
+iteration 99
+Time 1.3239569664001465 s
+loss 2.6016685983692724
+###################
+mean change of item vector 0.00028835144613060967
+iteration 100
+Time 1.317267656326294 s
+loss 2.575022224552793
+###################
+mean change of item vector 0.00028611913472772067
+iteration 101
+Time 1.3327302932739258 s
+loss 2.548932895929115
+###################
+mean change of item vector 0.00028392283946229914
+iteration 102
+Time 1.3458881378173828 s
+loss 2.5233829643754477
+###################
+mean change of item vector 0.00028176192402197927
+iteration 103
+Time 1.3276093006134033 s
+loss 2.498355518305066
+###################
+mean change of item vector 0.0002796356291818569
+iteration 104
+Time 1.320838451385498 s
+loss 2.473834345168653
+###################
+mean change of item vector 0.00027754371401217306
+iteration 105
+Time 1.326927661895752 s
+loss 2.4498038961789805
+###################
+mean change of item vector 0.0002754852134568591
+iteration 106
+Time 1.3239803314208984 s
+loss 2.4262492531099866
+###################
+mean change of item vector 0.0002734593586217103
+iteration 107
+Time 1.3266899585723877 s
+loss 2.4031560970323427
+###################
+mean change of item vector 0.0002714649303690336
+iteration 108
+Time 1.3291025161743164 s
+loss 2.3805106788577235
+###################
+mean change of item vector 0.0002695003863233697
+iteration 109
+Time 1.3317954540252686 s
+loss 2.3582997915733572
+###################
+mean change of item vector 0.0002675654635308355
+iteration 110
+Time 1.3281779289245605 s
+loss 2.3365107440570094
+###################
+mean change of item vector 0.00026565938858603055
+iteration 111
+Time 1.3236100673675537 s
+loss 2.315131336370458
+###################
+mean change of item vector 0.00026378204232381514
+iteration 112
+Time 1.3308250904083252 s
+loss 2.2941498364368313
+###################
+mean change of item vector 0.000261932961819891
+iteration 113
+Time 1.334195613861084 s
+loss 2.273554958013891
+###################
+mean change of item vector 0.00026011147885146243
+iteration 114
+Time 1.318554401397705 s
+loss 2.253335839881541
+###################
+mean change of item vector 0.00025831700079074013
+iteration 115
+Time 1.3374836444854736 s
+loss 2.2334820261675783
+###################
+mean change of item vector 0.00025654855530150405
+iteration 116
+Time 1.3301472663879395 s
+loss 2.2139834477409757
+###################
+mean change of item vector 0.0002548057933614931
+iteration 117
+Time 1.3209257125854492 s
+loss 2.1948304046068876
+###################
+mean change of item vector 0.0002530880458424529
+iteration 118
+Time 1.3217999935150146 s
+loss 2.176013549242058
+###################
+mean change of item vector 0.00025139440037329555
+iteration 119
+Time 1.3148090839385986 s
+loss 2.1575238708135145
+###################
+mean change of item vector 0.00024972473802074813
+iteration 120
+Time 1.3171043395996094 s
+loss 2.1393526802272826
+###################
+mean change of item vector 0.0002480782976685872
+iteration 121
+Time 1.3296117782592773 s
+loss 2.1214915959574143
+###################
+mean change of item vector 0.0002464549732192047
+iteration 122
+Time 1.3285894393920898 s
+loss 2.103932530608988
+###################
+mean change of item vector 0.0002448541606263185
+iteration 123
+Time 1.3205163478851318 s
+loss 2.0866676781717497
+###################
+mean change of item vector 0.00024327508941045456
+iteration 124
+Time 1.324284315109253 s
+loss 2.069689501923956
+###################
+mean change of item vector 0.0002417175378093588
+iteration 125
+Time 1.3324382305145264 s
+loss 2.0529907229486084
+###################
+mean change of item vector 0.00024018093720977717
+iteration 126
+Time 1.3294003009796143 s
+loss 2.0365643092267165
+###################
+mean change of item vector 0.00023866462101909092
+iteration 127
+Time 1.329676866531372 s
+loss 2.0204034652745104
+###################
+mean change of item vector 0.0002371684580794655
+iteration 128
+Time 1.3309035301208496 s
+loss 2.0045016222936463
+###################
+mean change of item vector 0.00023569214295168767
+iteration 129
+Time 1.3279616832733154 s
+loss 1.9888524288054013
+###################
+mean change of item vector 0.00023423540565426586
+iteration 130
+Time 1.3276467323303223 s
+loss 1.9734497417417014
+###################
+mean change of item vector 0.00023279763197090936
+iteration 131
+Time 1.3268463611602783 s
+loss 1.958287617967516
+###################
+mean change of item vector 0.00023137800376006636
+iteration 132
+Time 1.3193111419677734 s
+loss 1.9433603062107516
+###################
+mean change of item vector 0.00022997645626212903
+iteration 133
+Time 1.332075834274292 s
+loss 1.928662239377236
+###################
+mean change of item vector 0.00022859277610830987
+iteration 134
+Time 1.3319149017333984 s
+loss 1.9141880272297793
+###################
+mean change of item vector 0.00022722626734344835
+iteration 135
+Time 1.3320786952972412 s
+loss 1.8999324494115761
+###################
+mean change of item vector 0.00022587658059500544
+iteration 136
+Time 1.3247649669647217 s
+loss 1.8858904487953994
+###################
+mean change of item vector 0.00022454321415930176
+iteration 137
+Time 1.3249030113220215 s
+loss 1.8720571251411673
+###################
+mean change of item vector 0.00022322603086353103
+iteration 138
+Time 1.317732810974121 s
+loss 1.8584277290455085
+###################
+mean change of item vector 0.00022192462617962809
+iteration 139
+Time 1.3271484375 s
+loss 1.8449976561679027
+###################
+mean change of item vector 0.00022063870057837873
+iteration 140
+Time 1.3292245864868164 s
+loss 1.831762441718922
+###################
+mean change of item vector 0.0002193680050537328
+iteration 141
+Time 1.3317451477050781 s
+loss 1.8187177551969107
+###################
+mean change of item vector 0.00021811230326211287
+iteration 142
+Time 1.3257360458374023 s
+loss 1.8058593953602589
+###################
+mean change of item vector 0.00021687136589829811
+iteration 143
+Time 1.3300752639770508 s
+loss 1.7931832854231764
+###################
+mean change of item vector 0.00021564524226685942
+iteration 144
+Time 1.3279213905334473 s
+loss 1.7806854684635396
+###################
+mean change of item vector 0.00021443358553012342
+iteration 145
+Time 1.33247971534729 s
+loss 1.7683621030320797
+###################
+mean change of item vector 0.00021323578639561628
+iteration 146
+Time 1.3264672756195068 s
+loss 1.7562094589527486
+###################
+mean change of item vector 0.00021205167322250668
+iteration 147
+Time 1.326019525527954 s
+loss 1.744223913304711
+###################
+mean change of item vector 0.0002108809131388993
+iteration 148
+Time 1.3318300247192383 s
+loss 1.7324019465769178
+###################
+mean change of item vector 0.00020972313605352105
+iteration 149
+Time 1.3287551403045654 s
+loss 1.7207401389867394
+###################
+mean change of item vector 0.00020857816847381382
+iteration 150
+Time 1.3265013694763184 s
+loss 1.7092351669546086
+###################
+mean change of item vector 0.0002074458115890224
+iteration 151
+Time 1.3274271488189697 s
+loss 1.6978837997270495
+###################
+mean change of item vector 0.000206325921535148
+iteration 152
+Time 1.3254165649414062 s
+loss 1.6866828961409126
+###################
+mean change of item vector 0.0002052182092915584
+iteration 153
+Time 1.3277747631072998 s
+loss 1.675629401522009
+###################
+mean change of item vector 0.0002041223288002458
+iteration 154
+Time 1.3270208835601807 s
+loss 1.6647203447117085
+###################
+mean change of item vector 0.00020303808861285368
+iteration 155
+Time 1.328700065612793 s
+loss 1.6539528352154196
+###################
+mean change of item vector 0.00020196533135655262
+iteration 156
+Time 1.3301880359649658 s
+loss 1.6433240604671875
+###################
+mean change of item vector 0.0002009042337520095
+iteration 157
+Time 1.3309764862060547 s
+loss 1.632831283204954
+###################
+mean change of item vector 0.00019985437539769466
+iteration 158
+Time 1.3247342109680176 s
+loss 1.6224718389513149
+###################
+mean change of item vector 0.00019881561999746109
+iteration 159
+Time 1.3241500854492188 s
+loss 1.6122431335948801
+###################
+mean change of item vector 0.00019778787871774914
+iteration 160
+Time 1.3286032676696777 s
+loss 1.6021426410675945
+###################
+mean change of item vector 0.0001967709302962088
+iteration 161
+Time 1.328221082687378 s
+loss 1.5921679011136274
+###################
+mean change of item vector 0.00019576452633233648
+iteration 162
+Time 1.3252315521240234 s
+loss 1.5823165171456472
+###################
+mean change of item vector 0.00019476836603284537
+iteration 163
+Time 1.3243846893310547 s
+loss 1.572586154184541
+###################
+mean change of item vector 0.0001937823126149635
+iteration 164
+Time 1.3300120830535889 s
+loss 1.5629745368788102
+###################
+mean change of item vector 0.00019280625976201375
+iteration 165
+Time 1.3298242092132568 s
+loss 1.5534794476000833
+###################
+mean change of item vector 0.00019184008035781625
+iteration 166
+Time 1.3329122066497803 s
+loss 1.544098724611363
+###################
+mean change of item vector 0.00019088350755216442
+iteration 167
+Time 1.3304102420806885 s
+loss 1.5348302603047874
+###################
+mean change of item vector 0.0001899365413114109
+iteration 168
+Time 1.3288662433624268 s
+loss 1.5256719995058572
+###################
+mean change of item vector 0.00018899912380375856
+iteration 169
+Time 1.328765869140625 s
+loss 1.516621937841218
+###################
+mean change of item vector 0.00018807080509740157
+iteration 170
+Time 1.3286678791046143 s
+loss 1.507678120167249
+###################
+mean change of item vector 0.00018715141948084498
+iteration 171
+Time 1.3260102272033691 s
+loss 1.4988386390568207
+###################
+mean change of item vector 0.00018624083331714546
+iteration 172
+Time 1.3247759342193604 s
+loss 1.4901016333417394
+###################
+mean change of item vector 0.0001853391194861392
+iteration 173
+Time 1.3405451774597168 s
+loss 1.4814652867084872
+###################
+mean change of item vector 0.00018444611023293804
+iteration 174
+Time 1.3183717727661133 s
+loss 1.4729278263450114
+###################
+mean change of item vector 0.0001835617468789523
+iteration 175
+Time 1.3940880298614502 s
+loss 1.4644875216364035
+###################
+mean change of item vector 0.0001826858007114081
+iteration 176
+Time 1.319887638092041 s
+loss 1.4561426829074156
+###################
+mean change of item vector 0.0001818180211509875
+iteration 177
+Time 1.3243236541748047 s
+loss 1.4478916602098726
+###################
+mean change of item vector 0.0001809585158001359
+iteration 178
+Time 1.327035665512085 s
+loss 1.4397328421531057
+###################
+mean change of item vector 0.00018010704114013702
+iteration 179
+Time 1.3240125179290771 s
+loss 1.4316646547756464
+###################
+mean change of item vector 0.00017926349847752256
+iteration 180
+Time 1.3287622928619385 s
+loss 1.4236855604564824
+###################
+mean change of item vector 0.00017842765762909725
+iteration 181
+Time 1.3235421180725098 s
+loss 1.41579405686427
+###################
+mean change of item vector 0.00017759951484327543
+iteration 182
+Time 1.324150562286377 s
+loss 1.4079886759429574
+###################
+mean change of item vector 0.00017677887855220036
+iteration 183
+Time 1.3309340476989746 s
+loss 1.4002679829323628
+###################
+mean change of item vector 0.00017596557529516162
+iteration 184
+Time 1.335258960723877 s
+loss 1.3926305754222983
+###################
+mean change of item vector 0.00017515954760649664
+iteration 185
+Time 1.3287131786346436 s
+loss 1.3850750824389073
+###################
+mean change of item vector 0.00017436074554699854
+iteration 186
+Time 1.3194160461425781 s
+loss 1.377600163561937
+###################
+mean change of item vector 0.00017356903646259178
+iteration 187
+Time 1.3234570026397705 s
+loss 1.3702045080717355
+###################
+mean change of item vector 0.00017278439006103492
+iteration 188
+Time 1.3211095333099365 s
+loss 1.3628868341247948
+###################
+mean change of item vector 0.00017200664432434197
+iteration 189
+Time 1.3246660232543945 s
+loss 1.3556458879567421
+###################
+mean change of item vector 0.000171235818557568
+iteration 190
+Time 1.3276984691619873 s
+loss 1.3484804431117081
+###################
+mean change of item vector 0.00017047182601792507
+iteration 191
+Time 1.3237528800964355 s
+loss 1.3413892996970571
+###################
+mean change of item vector 0.00016971437586461922
+iteration 192
+Time 1.330636739730835 s
+loss 1.3343712836625092
+###################
+mean change of item vector 0.0001689634863389766
+iteration 193
+Time 1.3401145935058594 s
+loss 1.3274252461027216
+###################
+mean change of item vector 0.0001682191136936648
+iteration 194
+Time 1.3340308666229248 s
+loss 1.320550062582445
+###################
+mean change of item vector 0.0001674811390169428
+iteration 195
+Time 1.328505277633667 s
+loss 1.3137446324833983
+###################
+mean change of item vector 0.00016674949430853255
+iteration 196
+Time 1.3289401531219482 s
+loss 1.3070078783720518
+###################
+mean change of item vector 0.0001660241316135505
+iteration 197
+Time 1.3231160640716553 s
+loss 1.300338745387534
+###################
+mean change of item vector 0.00016530490585390452
+iteration 198
+Time 1.3279941082000732 s
+loss 1.2937362006489237
+###################
+mean change of item vector 0.0001645916939621832
+iteration 199
+Time 1.3452200889587402 s
+loss 1.2871992326812018
+###################
+mean change of item vector 0.00016388456961576614
+iteration 200
+Time 1.3298039436340332 s
+loss 1.2807268508591874
+###################
+mean change of item vector 0.00016318335927143003
+iteration 201
+Time 1.3260502815246582 s
+loss 1.274318084868793
+###################
+mean change of item vector 0.00016248794910964098
+iteration 202
+Time 1.3415334224700928 s
+loss 1.2679719841849806
+###################
+mean change of item vector 0.00016179815641251846
+iteration 203
+Time 1.3420732021331787 s
+loss 1.2616876175657998
+###################
+mean change of item vector 0.00016111390627354297
+iteration 204
+Time 1.3331232070922852 s
+loss 1.2554640725619497
+###################
+mean change of item vector 0.00016043520485949924
+iteration 205
+Time 1.3298985958099365 s
+loss 1.2493004550412876
+###################
+mean change of item vector 0.00015976202886952825
+iteration 206
+Time 1.3330891132354736 s
+loss 1.2431958887277736
+###################
+mean change of item vector 0.00015909426274012626
+iteration 207
+Time 1.3221168518066406 s
+loss 1.2371495147543259
+###################
+mean change of item vector 0.00015843183694764
+iteration 208
+Time 1.327425241470337 s
+loss 1.231160491229102
+###################
+mean change of item vector 0.00015777466041465814
+iteration 209
+Time 1.3401622772216797 s
+loss 1.2252279928147378
+###################
+mean change of item vector 0.00015712272721599426
+iteration 210
+Time 1.316695213317871 s
+loss 1.2193512103200894
+###################
+mean change of item vector 0.00015647600424070266
+iteration 211
+Time 1.3344624042510986 s
+loss 1.213529350304046
+###################
+mean change of item vector 0.00015583446676173946
+iteration 212
+Time 1.3234734535217285 s
+loss 1.207761634690997
+###################
+mean change of item vector 0.00015519793221569994
+iteration 213
+Time 1.3208003044128418 s
+loss 1.2020473003975536
+###################
+mean change of item vector 0.00015456636525152873
+iteration 214
+Time 1.321972131729126 s
+loss 1.1963855989701413
+###################
+mean change of item vector 0.00015393972626717394
+iteration 215
+Time 1.314366102218628 s
+loss 1.1907757962330923
+###################
+mean change of item vector 0.00015331797578222491
+iteration 216
+Time 1.3206348419189453 s
+loss 1.1852171719468834
+###################
+mean change of item vector 0.00015270101734095863
+iteration 217
+Time 1.3148157596588135 s
+loss 1.179709019476181
+###################
+mean change of item vector 0.00015208883015504845
+iteration 218
+Time 1.3203978538513184 s
+loss 1.174250645467358
+###################
+mean change of item vector 0.00015148130291314443
+iteration 219
+Time 1.3263568878173828 s
+loss 1.1688413695351776
+###################
+mean change of item vector 0.00015087826254032283
+iteration 220
+Time 1.3253793716430664 s
+loss 1.163480523958326
+###################
+mean change of item vector 0.00015027973484121787
+iteration 221
+Time 1.323246955871582 s
+loss 1.1581674533835193
+###################
+mean change of item vector 0.00014968568223701616
+iteration 222
+Time 1.3156752586364746 s
+loss 1.1529015145378874
+###################
+mean change of item vector 0.0001490961458463647
+iteration 223
+Time 1.3282074928283691 s
+loss 1.1476820759493733
+###################
+mean change of item vector 0.00014851097291836835
+iteration 224
+Time 1.3170804977416992 s
+loss 1.1425085176748873
+###################
+mean change of item vector 0.0001479301105809335
+iteration 225
+Time 1.3177895545959473 s
+loss 1.137380231035959
+###################
+mean change of item vector 0.00014735347677626297
+iteration 226
+Time 1.3170197010040283 s
+loss 1.1322966183616547
+###################
+mean change of item vector 0.00014678103486574908
+iteration 227
+Time 1.317009687423706 s
+loss 1.1272570927385166
+###################
+mean change of item vector 0.0001462127919395211
+iteration 228
+Time 1.3175048828125 s
+loss 1.122261077767313
+###################
+mean change of item vector 0.00014564876696636735
+iteration 229
+Time 1.3242385387420654 s
+loss 1.1173080073263697
+###################
+mean change of item vector 0.00014508882912473472
+iteration 230
+Time 1.315842866897583 s
+loss 1.1123973253412847
+###################
+mean change of item vector 0.00014453294093229327
+iteration 231
+Time 1.3180572986602783 s
+loss 1.1075284855608218
+###################
+mean change of item vector 0.00014398110504024007
+iteration 232
+Time 1.3263695240020752 s
+loss 1.1027009513387869
+###################
+mean change of item vector 0.00014343325752951637
+iteration 233
+Time 1.3198049068450928 s
+loss 1.0979141954217089
+###################
+mean change of item vector 0.00014288932631657187
+iteration 234
+Time 1.3283863067626953 s
+loss 1.093167699742133
+###################
+mean change of item vector 0.00014234929141438966
+iteration 235
+Time 1.3276288509368896 s
+loss 1.0884609552173679
+###################
+mean change of item vector 0.0001418132039353287
+iteration 236
+Time 1.3256053924560547 s
+loss 1.0837934615535045
+###################
+mean change of item vector 0.000141280942920902
+iteration 237
+Time 1.317396879196167 s
+loss 1.0791647270545568
+###################
+mean change of item vector 0.0001407525052787256
+iteration 238
+Time 1.3382904529571533 s
+loss 1.0745742684365605
+###################
+mean change of item vector 0.00014022778486147435
+iteration 239
+Time 1.3240454196929932 s
+loss 1.070021610646486
+###################
+mean change of item vector 0.00013970667245124396
+iteration 240
+Time 1.3171722888946533 s
+loss 1.0655062866858152
+###################
+mean change of item vector 0.00013918915076624314
+iteration 241
+Time 1.3231861591339111 s
+loss 1.061027837438645
+###################
+mean change of item vector 0.00013867519884338758
+iteration 242
+Time 1.3284897804260254 s
+loss 1.0565858115041808
+###################
+mean change of item vector 0.0001381648621702224
+iteration 243
+Time 1.3295140266418457 s
+loss 1.0521797650334896
+###################
+mean change of item vector 0.00013765803307746823
+iteration 244
+Time 1.3252623081207275 s
+loss 1.0478092615703873
+###################
+mean change of item vector 0.0001371546183353732
+iteration 245
+Time 1.335991382598877 s
+loss 1.0434738718963374
+###################
+mean change of item vector 0.0001366545780451956
+iteration 246
+Time 1.3172457218170166 s
+loss 1.0391731738792436
+###################
+mean change of item vector 0.00013615801242968865
+iteration 247
+Time 1.3237059116363525 s
+loss 1.0349067523260203
+###################
+mean change of item vector 0.00013566479825863586
+iteration 248
+Time 1.325803518295288 s
+loss 1.0306741988388366
+###################
+mean change of item vector 0.00013517487153105675
+iteration 249
+Time 1.3137683868408203 s
+loss 1.02647511167492
+###################
+mean change of item vector 0.00013468823944429972
+iteration 250
+Time 1.3220021724700928 s
+loss 1.022309095609824
+###################
+mean change of item vector 0.00013420483380737196
+iteration 251
+Time 1.3347694873809814 s
+loss 1.0181757618040521
+###################
+mean change of item vector 0.00013372463265571647
+iteration 252
+Time 1.3252394199371338 s
+loss 1.0140747276729527
+###################
+mean change of item vector 0.00013324763628358967
+iteration 253
+Time 1.33235764503479 s
+loss 1.0100056167597802
+###################
+mean change of item vector 0.00013277371983493885
+iteration 254
+Time 1.321105718612671 s
+loss 1.005968058611841
+###################
+mean change of item vector 0.00013230293738506954
+iteration 255
+Time 1.3319945335388184 s
+loss 1.001961688659634
+###################
+mean change of item vector 0.00013183525218126007
+iteration 256
+Time 1.3311254978179932 s
+loss 0.9979861480989006
+###################
+mean change of item vector 0.000131370587029696
+iteration 257
+Time 1.3356595039367676 s
+loss 0.9940410837755022
+###################
+mean change of item vector 0.00013090893604786628
+iteration 258
+Time 1.3351612091064453 s
+loss 0.9901261480730523
+###################
+mean change of item vector 0.00013045023923269043
+iteration 259
+Time 1.3334786891937256 s
+loss 0.9862409988032164
+###################
+mean change of item vector 0.00012999450593213934
+iteration 260
+Time 1.3321022987365723 s
+loss 0.9823852990986152
+###################
+mean change of item vector 0.0001295417372869499
+iteration 261
+Time 1.3306910991668701 s
+loss 0.978558717308254
+###################
+mean change of item vector 0.00012909186653642837
+iteration 262
+Time 1.3281495571136475 s
+loss 0.9747609268954115
+###################
+mean change of item vector 0.00012864487372354983
+iteration 263
+Time 1.3322880268096924 s
+loss 0.9709916063379175
+###################
+mean change of item vector 0.00012820080466918754
+iteration 264
+Time 1.337785243988037 s
+loss 0.9672504390307611
+###################
+mean change of item vector 0.00012775968478898612
+iteration 265
+Time 1.3314425945281982 s
+loss 0.9635371131909571
+###################
+mean change of item vector 0.00012732151277243504
+iteration 266
+Time 1.332977533340454 s
+loss 0.9598513217646167
+###################
+mean change of item vector 0.0001268861314644073
+iteration 267
+Time 1.3194694519042969 s
+loss 0.9561927623361616
+###################
+mean change of item vector 0.00012645351497584013
+iteration 268
+Time 1.3311405181884766 s
+loss 0.9525611370396211
+###################
+mean change of item vector 0.00012602369872781151
+iteration 269
+Time 1.3228776454925537 s
+loss 0.9489561524719603
+###################
+mean change of item vector 0.0001255965781826892
+iteration 270
+Time 1.325990915298462 s
+loss 0.945377519608384
+###################
+mean change of item vector 0.0001251720679802061
+iteration 271
+Time 1.3374900817871094 s
+loss 0.9418249537195628
+###################
+mean change of item vector 0.0001247501873888701
+iteration 272
+Time 1.3324840068817139 s
+loss 0.9382981742907329
+###################
+mean change of item vector 0.0001243308947560609
+iteration 273
+Time 1.3244061470031738 s
+loss 0.9347969049426195
+###################
+mean change of item vector 0.00012391420886381248
+iteration 274
+Time 1.332014799118042 s
+loss 0.931320873354132
+###################
+mean change of item vector 0.00012350008572465767
+iteration 275
+Time 1.3298442363739014 s
+loss 0.9278698111867958
+###################
+mean change of item vector 0.0001230884759510978
+iteration 276
+Time 1.3270373344421387 s
+loss 0.9244434540108613
+###################
+mean change of item vector 0.00012267939738676536
+iteration 277
+Time 1.3359911441802979 s
+loss 0.9210415412330581
+###################
+mean change of item vector 0.00012227281011201204
+iteration 278
+Time 1.3353331089019775 s
+loss 0.9176638160259467
+###################
+mean change of item vector 0.00012186870864194288
+iteration 279
+Time 1.3290972709655762 s
+loss 0.9143100252588257
+###################
+mean change of item vector 0.00012146712877682678
+iteration 280
+Time 1.3283932209014893 s
+loss 0.9109799194301602
+###################
+mean change of item vector 0.00012106798505854036
+iteration 281
+Time 1.339845895767212 s
+loss 0.9076732526014861
+###################
+mean change of item vector 0.00012067120622736701
+iteration 282
+Time 1.3222901821136475 s
+loss 0.9043897823327581
+###################
+mean change of item vector 0.00012027682262209998
+iteration 283
+Time 1.3477251529693604 s
+loss 0.9011292696190997
+###################
+mean change of item vector 0.00011988475802339662
+iteration 284
+Time 1.3327984809875488 s
+loss 0.8978914788289265
+###################
+mean change of item vector 0.00011949507620118774
+iteration 285
+Time 1.3247146606445312 s
+loss 0.8946761776434012
+###################
+mean change of item vector 0.0001191079047280004
+iteration 286
+Time 1.3230071067810059 s
+loss 0.8914831369971928
+###################
+mean change of item vector 0.00011872301978568287
+iteration 287
+Time 1.3356423377990723 s
+loss 0.8883121310205034
+###################
+mean change of item vector 0.00011834037382632342
+iteration 288
+Time 1.339270830154419 s
+loss 0.8851629369823336
+###################
+mean change of item vector 0.00011795990748500624
+iteration 289
+Time 1.3412024974822998 s
+loss 0.8820353352349547
+###################
+mean change of item vector 0.0001175816485195819
+iteration 290
+Time 1.3442306518554688 s
+loss 0.8789291091595581
+###################
+mean change of item vector 0.00011720557399874205
+iteration 291
+Time 1.3424136638641357 s
+loss 0.8758440451130546
+###################
+mean change of item vector 0.0001168316958484877
+iteration 292
+Time 1.3439011573791504 s
+loss 0.8727799323759908
+###################
+mean change of item vector 0.00011645998363079222
+iteration 293
+Time 1.341043472290039 s
+loss 0.869736563101561
+###################
+mean change of item vector 0.00011609046007847851
+iteration 294
+Time 1.3293235301971436 s
+loss 0.8667137322656863
+###################
+mean change of item vector 0.00011572316282046749
+iteration 295
+Time 1.3256862163543701 s
+loss 0.8637112376181305
+###################
+mean change of item vector 0.00011535805186418598
+iteration 296
+Time 1.3386280536651611 s
+loss 0.8607288796346348
+###################
+mean change of item vector 0.00011499502221022958
+iteration 297
+Time 1.3326802253723145 s
+loss 0.8577664614700433
+###################
+mean change of item vector 0.00011463407504846367
+iteration 298
+Time 1.3218247890472412 s
+loss 0.854823788912392
+###################
+mean change of item vector 0.00011427520346395963
+iteration 299
+Time 1.3393058776855469 s
+loss 0.8519006703379474
+###################
+mean change of item vector 0.00011391837601953264
+iteration 300
+Time 1.3334369659423828 s
+loss 0.8489969166671629
+###################
+mean change of item vector 0.0001135635512512296
+iteration 301
+Time 1.3368804454803467 s
+loss 0.8461123413215362
+###################
+mean change of item vector 0.00011321071091675172
+iteration 302
+Time 1.3318309783935547 s
+loss 0.843246760181344
+###################
+mean change of item vector 0.00011285985387517028
+iteration 303
+Time 1.3404850959777832 s
+loss 0.8403999915442373
+###################
+mean change of item vector 0.00011251097780093258
+iteration 304
+Time 1.3206326961517334 s
+loss 0.8375718560846708
+###################
+mean change of item vector 0.00011216399734247581
+iteration 305
+Time 1.327449083328247 s
+loss 0.8347621768141529
+###################
+mean change of item vector 0.00011181892487260436
+iteration 306
+Time 1.3295352458953857 s
+loss 0.8319707790422936
+###################
+mean change of item vector 0.00011147573457858515
+iteration 307
+Time 1.3222291469573975 s
+loss 0.829197490338632
+###################
+mean change of item vector 0.00011113441251653693
+iteration 308
+Time 1.3200197219848633 s
+loss 0.8264421404952275
+###################
+mean change of item vector 0.00011079496727108798
+iteration 309
+Time 1.327693223953247 s
+loss 0.823704561489995
+###################
+mean change of item vector 0.00011045734486757137
+iteration 310
+Time 1.3261828422546387 s
+loss 0.8209845874507674
+###################
+mean change of item vector 0.00011012157258586247
+iteration 311
+Time 1.3337781429290771 s
+loss 0.8182820546200683
+###################
+mean change of item vector 0.0001097876341553904
+iteration 312
+Time 1.3368358612060547 s
+loss 0.8155968013205811
+###################
+mean change of item vector 0.00010945557656830563
+iteration 313
+Time 1.3308064937591553 s
+loss 0.8129286679212937
+###################
+mean change of item vector 0.00010912533260817212
+iteration 314
+Time 1.329622745513916 s
+loss 0.8102774968043109
+###################
+mean change of item vector 0.0001087968916583479
+iteration 315
+Time 1.326202392578125 s
+loss 0.8076431323323089
+###################
+mean change of item vector 0.00010847019872271535
+iteration 316
+Time 1.3352932929992676 s
+loss 0.8050254208166304
+###################
+mean change of item vector 0.0001081452838405836
+iteration 317
+Time 1.3285143375396729 s
+loss 0.8024242104859926
+###################
+mean change of item vector 0.00010782209644573458
+iteration 318
+Time 1.332615613937378 s
+loss 0.7998393514558049
+###################
+mean change of item vector 0.00010750061904239918
+iteration 319
+Time 1.3297159671783447 s
+loss 0.7972706956980761
+###################
+mean change of item vector 0.00010718082599612141
+iteration 320
+Time 1.3409905433654785 s
+loss 0.7947180970119022
+###################
+mean change of item vector 0.00010686266839622495
+iteration 321
+Time 1.332390308380127 s
+loss 0.7921814109945167
+###################
+mean change of item vector 0.00010654615022124531
+iteration 322
+Time 1.3343088626861572 s
+loss 0.7896604950128986
+###################
+mean change of item vector 0.0001062312887076253
+iteration 323
+Time 1.3312206268310547 s
+loss 0.7871552081759172
+###################
+mean change of item vector 0.00010591802511023624
+iteration 324
+Time 1.322336196899414 s
+loss 0.7846654113070083
+###################
+mean change of item vector 0.00010560638744142977
+iteration 325
+Time 1.3343167304992676 s
+loss 0.7821909669173682
+###################
+mean change of item vector 0.00010529640876453626
+iteration 326
+Time 1.3253026008605957 s
+loss 0.7797317391796522
+###################
+mean change of item vector 0.00010498801143326925
+iteration 327
+Time 1.329819917678833 s
+loss 0.7772875939021674
+###################
+mean change of item vector 0.00010468118799051768
+iteration 328
+Time 1.3339321613311768 s
+loss 0.7748583985035546
+###################
+mean change of item vector 0.00010437595031042093
+iteration 329
+Time 1.334036111831665 s
+loss 0.7724440219879372
+###################
+mean change of item vector 0.00010407227942054814
+iteration 330
+Time 1.319875717163086 s
+loss 0.7700443349205396
+###################
+mean change of item vector 0.0001037701848962598
+iteration 331
+Time 1.3256206512451172 s
+loss 0.7676592094037546
+###################
+mean change of item vector 0.00010346964507049758
+iteration 332
+Time 1.3251309394836426 s
+loss 0.7652885190536586
+###################
+mean change of item vector 0.00010317066957110848
+iteration 333
+Time 1.3286705017089844 s
+loss 0.7629321389769564
+###################
+mean change of item vector 0.0001028731852852273
+iteration 334
+Time 1.333237648010254 s
+loss 0.760589945748356
+###################
+mean change of item vector 0.00010257717920270658
+iteration 335
+Time 1.3378643989562988 s
+loss 0.758261817388355
+###################
+mean change of item vector 0.00010228267645183615
+iteration 336
+Time 1.3276917934417725 s
+loss 0.7559476333414362
+###################
+mean change of item vector 0.00010198964462230028
+iteration 337
+Time 1.3254098892211914 s
+loss 0.7536472744546625
+###################
+mean change of item vector 0.00010169807213352835
+iteration 338
+Time 1.328629493713379 s
+loss 0.7513606229566584
+###################
+mean change of item vector 0.0001014079218883257
+iteration 339
+Time 1.3209424018859863 s
+loss 0.7490875624369769
+###################
+mean change of item vector 0.0001011192095705918
+iteration 340
+Time 1.3259973526000977 s
+loss 0.7468279778258384
+###################
+mean change of item vector 0.000100831901422877
+iteration 341
+Time 1.3275375366210938 s
+loss 0.7445817553742354
+###################
+mean change of item vector 0.00010054602220296514
+iteration 342
+Time 1.3395578861236572 s
+loss 0.742348782634396
+###################
+mean change of item vector 0.00010026153894646587
+iteration 343
+Time 1.3265531063079834 s
+loss 0.7401289484405976
+###################
+Converged
+Converged using 532.4461197853088
+rmse 0.53461623
